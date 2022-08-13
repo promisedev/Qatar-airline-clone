@@ -1,0 +1,76 @@
+
+[
+    {"id":1,
+    "bg":"https://www.qatarairways.com/content/dam/images/renditions/horizontal-3/destinations/united-kingdom/london/h3-gatwick-phone.jpg/jcr:content/renditions/rendition.534.400.jpg",
+    "tag":"London Gatwick",
+    "date":"02 Oct 2022 - 09 Oct 2022",
+    "type":"Economy from",
+    "price":"USD 769"
+
+},
+{"id":2,
+    "bg":"https://www.qatarairways.com/content/dam/images/renditions/horizontal-2/destinations/united-kingdom/london/h2-london-primary.jpg/jcr:content/renditions/rendition.259.150.jpg",
+    "tag":"London Heathrow",
+    "date":"19 Sep 2022 - 24 Sep 2022",
+    "type":"Economy from",
+    "price":"USD 817"
+
+},
+{"id":3,
+    "bg":"https://www.qatarairways.com/content/dam/images/renditions/horizontal-2/destinations/turkey/istanbul/h2-istanbul-primary-culture.jpg/jcr:content/renditions/rendition.259.150.jpg",
+    "tag":"Istanbul",
+    "date":"31 Aug 2022 - 10 Sep 2022",
+    "type":"Economy from",
+    "price":"USD 1091"
+
+},
+{"id":4,
+    "bg":"https://www.qatarairways.com/content/dam/images/renditions/horizontal-2/destinations/united-states/new-york/h2-new-york-city.jpg/jcr:content/renditions/rendition.259.150.jpg",
+    "tag":"New york",
+    "date":"21 Sep 2022 - 26 Sep 2022",
+    "type":"Economy from",
+    "price":"USD 1060"
+
+},
+{"id":5,
+    "bg":"https://www.qatarairways.com/content/dam/images/renditions/horizontal-2/destinations/australia/sydney/h2-sydney-city.jpg/jcr:content/renditions/rendition.259.150.jpg",
+    "tag":"Sydney",
+    "date":"30 Oct 2022 - 04 Nov 2022",
+    "type":"Economy from",
+    "price":"USD 2444"
+
+},
+{"id":6,
+    "bg":"https://www.qatarairways.com/content/dam/images/renditions/horizontal-2/destinations/india/mumbai/h2-mumbai-culture.jpg/jcr:content/renditions/rendition.259.150.jpg",
+    "tag":"Mumbai",
+    "date":"31 Aug 2022 - 11 Sep 2022",
+    "type":"Economy from",
+    "price":"USD 842"
+
+},
+{"id":7,
+    "bg":"https://www.qatarairways.com/content/dam/images/renditions/horizontal-2/destinations/saudi-arabia/medina/h2-medina-masjid.jpg/jcr:content/renditions/rendition.259.150.jpg",
+    "tag":"Medina",
+    "date":"31 Aug 2022 - 05 Sep 2022",
+    "type":"Economy from",
+    "price":"USD 1453"
+
+},
+{"id":8,
+    "bg":"https://www.qatarairways.com/content/dam/images/renditions/horizontal-2/destinations/united-arab-emirates/dubai/h2-dubai-burj-khalifa.jpg/jcr:content/renditions/rendition.259.150.jpg",
+    "tag":"Dubai",
+    "date":"31 Aug 2022 - 05 Sep 2022",
+    "type":"Economy from",
+    "price":"USD 813"
+
+},
+{"id":9,
+    "bg":"https://www.qatarairways.com/content/dam/images/renditions/horizontal-2/destinations/united-arab-emirates/sharjah/h2-sharjah-primary-beach.jpg/jcr:content/renditions/rendition.259.150.jpg",
+    "tag":"Sharjah",
+    "date":"31 Aug 2022 - 10 Sep 2022",
+    "type":"Economy from",
+    "price":"USD 624"
+
+}
+
+]

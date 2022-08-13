@@ -1,0 +1,41 @@
+
+
+[
+    {"id":1,
+"bg":"https://www.qatarairways.com/content/dam/images/renditions/horizontal-2/destinations/regional/southern-africa/h2-africa-sunset-safari.jpg",
+"tag":"Exclusive offers to African destinations",
+"desc":"Explore some of Africa's most mesmerising destinations with our limited-time offers.",
+"link":"Book now"
+},
+  {"id":2,
+"bg":"https://www.qatarairways.com/content/dam/images/renditions/horizontal-2/destinations/united-states/las-vegas/h2-usa-las-vegas-city.jpg",
+"tag":"Fly to 230+ cities in the USA",
+"desc":"Great fares and seamless connections with our partners.",
+"link":"Book now"
+},
+  {"id":3,
+"bg":"https://www.qatarairways.com/content/dam/images/renditions/horizontal-3/brand/qdf/h3-qdf-hia-stall-chanel.jpg",
+"tag":"Shop and dine before you fly",
+"desc":"Discover worldwide exclusives, luxury shopping and dinning.",
+"link":"Book now"
+},
+  {"id":4,
+"bg":"https://www.qatarairways.com/content/dam/images/renditions/horizontal-2/miscellaneous/baggages/h2-extra-baggage.jpg",
+"tag":"Visiting family and friends?",
+"desc":"Carry two pieces of checked baggage, each weighing 23kg in...",
+"link":"Book now"
+},
+{"id":5,
+"bg":"https://www.qatarairways.com/content/dam/images/renditions/horizontal-2/destinations/united-arab-emirates/abu-dhabi/h2-abu-dhabi-grand-mosque.jpg",
+"tag":"Premium offers to UAE",
+"desc":"Travel with the World's Best Airline.",
+"link":"Book now"
+},
+  {"id":6,
+"bg":"https://www.qatarairways.com/content/dam/images/renditions/horizontal-2/campaigns/global/sc-anniversary/h2-student-club-single.jpg",
+"tag":"Aim for the skies with Student Club",
+"desc":"Offering you exclusive benefits including special fares, extra baggage and more.",
+"link":"Book now"
+}
+
+]

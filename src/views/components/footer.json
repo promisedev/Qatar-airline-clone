@@ -1,0 +1,54 @@
+
+
+[{
+   "id":1,
+   "name":"Qatar Airways",
+   "link":[
+    {"name":"About us"},
+    {"name":"Awars"},
+{"name":"Careers"},
+{"name":"Press releases"},
+{"name":"Sponsorship"},
+{"name":"Travel alerts"},
+{"name":"Al Darb Qatarisation"},
+{"name":"Environmental sustainability"}
+] 
+},
+{
+   "id":2,
+   "name":"Group companies",
+   "link":[
+    {"name":"Harmad International Airport"},
+    {"name":"Qatar executive"},
+{"name":"Qatar Duty Free"},
+{"name":"Qatar Airways Cargo" },
+{"name":"More about Group companies"}
+] 
+},
+{
+   "id":3,
+   "name":"Business solutions",
+   "link":[
+    {"name":"Corporate travel"},
+    {"name":"Beyound business"},
+{"name":"QMICE Meetings and Events"}
+] 
+},
+{
+   "id":4,
+   "name":"Business partners",
+   "link":[
+    {"name":"Affiliate marketing"},
+    {"name":"e-Procurement"},
+{"name":"Trade partners"}
+] 
+},
+{
+   "id":5,
+   "name":"Contact us",
+   "link":[
+    {"name":"Help"}
+] 
+}
+
+]

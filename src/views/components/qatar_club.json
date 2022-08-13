@@ -1,0 +1,34 @@
+
+
+[
+    {"id":1,
+"name":"Privilege Club"
+,"bg":"https://www.qatarairways.com/content/dam/images/renditions/horizontal-1/privilege-club/cards-circle/h1-ffp-cards-qsuite-crew.jpg",
+"tag":"Join Previlege Club",
+"desc":"Enjoy exclusive offers and earn Avios to use toward award tickets, upgrade, extra baggage, shopping at Qatar Duty Free and more",
+"link":"Join now"
+},
+  {"id":2,
+"name":"Mobile app",
+"bg":"https://www.qatarairways.com/content/dam/images/renditions/horizontal-1/campaigns/global/mobile/h1-mobile-weekend-campaign.jpg",
+"tag":"Get more on our mobile app",
+"desc":"Benefit from app-exclusive offers, personalized notifications, seamless booking functions, journey tracking and more.",
+"link":"Learn more"
+},
+  {"id":3,
+"name":"New Baggage Allowance",
+"bg":"https://www.qatarairways.com/content/dam/images/renditions/horizontal-1/miscellaneous/baggages/h1-hand-baggage.jpg",
+"tag":"New Baggage Allowance",
+"desc":"To better suit your travel needs, we are pleased to offer you our new baggage allowance when you fly from any African destination.",
+"link":"Learn more"
+},
+  {"id":4,
+"name":"Qsuit",
+"bg":"https://www.qatarairways.com/content/dam/images/renditions/horizontal-1/brand/qsuite/h1-qsuite-man-dining-lunch-hn.jpg",
+"tag":"Experience a new standard",
+"desc":"Experience a new standard of Business Class in your very own personal suite with privacy doors.",
+"link":"Book now"
+}
+
+
+]
