@@ -1,4 +1,3 @@
-# spotify landing page clone
+# qatar landing page clone
 
-## Api from 
-`https://genius.p.rapidapi.com/artists/16775/songs`
+## clone of qatar landing page on react.js
